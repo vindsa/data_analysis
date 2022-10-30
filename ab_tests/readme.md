@@ -14,4 +14,4 @@
 
 | Название проекта | Описание | Используемые библиотеки | 
 | :---------------------- | :---------------------- | :---------------------- |
-| [Принятие решений в бизнесе](ab_tests) | Приоретизация гипотез. Анализ A/B-теста | pandas, datetime, numpy, matplotlib, scipy
+| [Принятие решений в бизнесе](https://github.com/vindsa/data_analysis/tree/main/ab_tests) | Приоретизация гипотез. Анализ A/B-теста | pandas, datetime, numpy, matplotlib, scipy
