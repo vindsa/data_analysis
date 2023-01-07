@@ -8,5 +8,5 @@
 | [Принятие решений в бизнесе](https://github.com/vindsa/data_analysis/tree/main/ab_tests) | Приоретизация гипотез. Анализ A/B-теста | Приложение приносит убытки, несмотря на высокий объем инвестиций в рекламу. Определить причины, сформировать рекомендации по оптимизации | pandas, datetime, numpy, matplotlib, scipy
 | [Анализ воронки продаж и результатов А/A/B-теста стартапа](https://github.com/vindsa/data_analysis/tree/main/funnel_aab_test) | Анализ воронки продаж и результатов А/A/B-теста стартапа | Проверить гипотезу влияния изменения шрифтов на увеличение количества целевых действий в приложении | pandas, datetime, numpy, matplotlib, seaborn
 | [Анализ юнит-экономики проекта](https://github.com/vindsa/data_analysis/tree/main/unit_economics) |  LTV, ROI, Retention, CAC, окупаемости инвестиций | Приложение приносит убытки, несмотря на высокий объем инвестиций в рекламу. Определить причины, сформировать рекомендации по оптимизации | pandas, datetime, numpy, matplotlib, seaborn
-
+| [Анализ через SQL](https://github.com/vindsa/data_analysis/tree/main/sql) |  Анализ данных сервиса для чтения книг по подписке через PostgreSQL | Подготовить анализ количества книг, обзоров, рейтингов и сформулировать выводы подключившись к БД через SQL | pandas, sqlalchemy, seaborn, matplotlib
 
